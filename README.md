@@ -9,3 +9,5 @@ Add change in remote repository/remote-test-2!
 =======
 Add change in remote repository/remote-test-1
 >>>>>>> source/main
+
+New message for you.
